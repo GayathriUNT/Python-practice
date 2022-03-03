@@ -1,4 +1,4 @@
 # Projects
-## This ia python practice
+## This is for python practice
 ### I have several examples in this
 #### I practise coding
