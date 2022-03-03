@@ -1,4 +1,5 @@
 # Projects
-## This is for practicing python 
+
+## This is a practicing python repo
 ### I have several examples in this
 #### I practise coding
